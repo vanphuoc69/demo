@@ -1,4 +1,4 @@
-111111111111111111111111111111111111111111111111
+﻿111111111111111111111111111111111111111111111111
 
 
 truonglaso12
@@ -7,6 +7,10 @@ trouiiasnlfdnasldfnasdflkjsalkfjslkfjsdflk
 
 
 ádffsssaaaa
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+aerutoasjfoasfoisuadfpoasjdfsoi
+>>>>>>> e9fcf749015b0f8d5977789c3b4684b2506020cb
 2222222222222222222222222222222222222222222222222
 zoksoqskoqsoqksoqsoqksoq
